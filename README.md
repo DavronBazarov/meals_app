@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+https://user-images.githubusercontent.com/104300528/192162465-8882de09-4628-44d0-a730-e18d5c0d93fe.mp4
 
 ## Getting Started
 
